@@ -8,8 +8,8 @@ STATS:
 -=-
 
 SKILLS:
-  - [Erode SSS] (Passive): You now erode the souls of everyone around you
-    - Condition: Skill will only erode targets if their luck stat is below the skill-holder (Soyfon)
+  - [Erode SSS {CURSED}] (Passive): You now erode the souls of everyone around you
+    - [CURSED] Condition: Skill will only erode targets if their luck stat is below the skill-holder (Soyfon)
 
   - [Stratigize A] (Active): When active, the target gains temporary ability "Outplayed+":
     - Condition: Skill can only be activated in strategic situations
